@@ -1,6 +1,5 @@
 # Pinterest like
-## Projet base de données
-## Licence 2
+## Projet base de données - Licence 2
 
 Millet Judith p1811933
 Lafourcade Emie p1802635
