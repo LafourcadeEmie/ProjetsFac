@@ -4,7 +4,8 @@
 Millet Judith p1811933
 Lafourcade Emie p1802635
 
-/!\ Pas accessible
+## /!\ Pas accessible
+
 Lien vers le mini-pinterest
 https://bdw1.univ-lyon1.fr/p1802635/projetbdw1/index.php
 
