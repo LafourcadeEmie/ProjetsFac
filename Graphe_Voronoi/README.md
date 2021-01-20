@@ -1,4 +1,5 @@
 # Algorithme et proggramation Licence 2 – Graphe d’un terrain et diagramme de Voronoï
+## Johanna T. & Emie Lafourcade
 
 Ce programme orienté objet met en œuvre un graphe sous forme de grille. Cela permet de modéliser une carte géographique, dont les coordonnées sont les sommets du graphe.
 En outre, le graphe est utilisé pour calculer son diagramme de Voronoï en utilisant l'algorithme de Dijkstra. Ce diagramme est une décomposition de l'espace en régions(librairies). Celles-ci sont déterminées par un ensemble donné de coordonnées, appelés ici sites. Chaque librairie est déterminée par exactement un site et comprend toutes les coordonnées qui sont plus proches du site de la librairie que de tout autre site par rapport à la métrique euclidienne.
